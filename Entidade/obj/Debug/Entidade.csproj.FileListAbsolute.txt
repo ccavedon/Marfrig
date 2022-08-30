@@ -1,0 +1,6 @@
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Entidade\bin\Debug\Entidade.dll
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Entidade\bin\Debug\Entidade.pdb
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Entidade\obj\Debug\Entidade.csproj.AssemblyReference.cache
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Entidade\obj\Debug\Entidade.dll
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Entidade\obj\Debug\Entidade.pdb

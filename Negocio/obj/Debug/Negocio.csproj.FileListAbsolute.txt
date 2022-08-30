@@ -1,0 +1,16 @@
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\Negocio.dll
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\Dados.dll
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\Entidade.dll
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\Dados.pdb
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\Dados.dll.config
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\bin\Debug\Entidade.pdb
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\obj\Debug\Negocio.dll
+C:\Users\Carlos Cavedon\source\repos\Api_CompraDeGado\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Api_CompraDeGado\\Api_CompraDeGado.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Api_CompraDeGado\\Api_CompraDeGado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Api_CompraDeGado\\Api_CompraDeGado.csproj",
+        "projectName": "Api_CompraDeGado",
+        "projectPath": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Api_CompraDeGado\\Api_CompraDeGado.csproj",
+        "packagesPath": "C:\\Users\\Carlos Cavedon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Api_CompraDeGado\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Carlos Cavedon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Entidade\\Entidade.csproj": {
+                "projectPath": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Entidade\\Entidade.csproj"
+              },
+              "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Negocio\\Negocio.csproj": {
+                "projectPath": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Negocio\\Negocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Dados\\Dados.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Dados\\Dados.csproj",
+        "projectName": "Dados",
+        "projectPath": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Dados\\Dados.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Entidade\\Entidade.csproj": {
+                "projectPath": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Entidade\\Entidade.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Entidade\\Entidade.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Entidade\\Entidade.csproj",
+        "projectName": "Entidade",
+        "projectPath": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Entidade\\Entidade.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Negocio\\Negocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Negocio\\Negocio.csproj",
+        "projectName": "Negocio",
+        "projectPath": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Negocio\\Negocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Dados\\Dados.csproj": {
+                "projectPath": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Dados\\Dados.csproj"
+              },
+              "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Entidade\\Entidade.csproj": {
+                "projectPath": "C:\\Users\\Carlos Cavedon\\source\\repos\\Api_CompraDeGado\\Entidade\\Entidade.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
